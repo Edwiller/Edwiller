@@ -1,61 +1,75 @@
-# 👾 Edwiller
+# 👾 EDWILLER
 
-```diff
-+ Status: ONLINE
-+ Role: Full Stack Developer
-+ Focus: Backend & Systems
-```
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00ffcc,100:3300ff&height=250&section=header&text=EDWILLER.EXE&fontSize=45&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 
----
-
-## 🎮 Sobre mim
-
-💻 Desenvolvedor apaixonado por tecnologia
-🚀 Focado em backend e sistemas
-🎯 Sempre evoluindo e criando projetos
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00FFC6&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Backend+Specialist;System+Builder;Always+Learning..." />
+</p>
 
 ---
 
-## ⚔️ Skills
-
-![Skills](https://skillicons.dev/icons?i=cpp,cs,java,python,js,mysql)
-
----
-
-## 📊 Status do Sistema
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Edwiller\&show_icons=true\&theme=radical\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edwiller\&layout=compact\&theme=radical\&hide_border=true)
-
-![Streak](https://streak-stats.demolab.com/?user=Edwiller\&theme=radical\&hide_border=true)
-
----
-
-## 🧠 Tecnologias Dominadas
-
-```txt
-C++      █████████░░
-C#       ████████░░░
-Java     ███████░░░░
-Python   █████████░░
-SQL      ████████░░░
-JS       ███████░░░░
-```
-
----
-
-## 🌐 Conexões
-
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-000?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://seu-link-aqui.com](https://www.linkedin.com/in/edwiller-de-lima-araujo-961b44351/))
-
----
-
-## 🕹️ Easter Egg
+## 🧠 SYSTEM INFO
 
 ```bash
-> loading developer...
-> skills loaded ✔
-> systems ready ✔
-> welcome to Edwiller.exe 🚀
+> user: Edwiller
+> role: Full Stack Developer
+> focus: Backend & Systems
+> status: ONLINE 🟢
+```
+
+---
+
+## ⚔️ SKILLS
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,js,mysql" />
+</p>
+
+---
+
+## 📊 SYSTEM STATS
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edwiller&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edwiller&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Edwiller&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧬 TECH LEVEL
+
+```diff
++ C++      ██████████
++ C#       █████████
++ Java     ████████
++ Python   ██████████
++ SQL      █████████
++ JS       ████████
+```
+
+---
+
+## 🌐 NETWORK
+
+<p align="center">
+  <a href="https://linkedin.com/in/seu-link">
+    <img src="https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFC6"/>
+  </a>
+</p>
+
+---
+
+## 🧠 AI CORE
+
+```bash
+> initializing...
+> loading modules ██████████ 100%
+> backend ✔
+> database ✔
+> api ✔
+> system ready 🚀
 ```
