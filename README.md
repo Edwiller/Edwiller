@@ -22,7 +22,7 @@
 ## ⚔️ SKILLS
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,js,mysql,html,css" /><br>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,java,python,js,mysql,postgres,git,github,html,css" /><br>
   <img src="https://skillicons.dev/icons?i=tailwind,nodejs,angular,dotnet,spring,bootstrap,arduino,raspberrypi" />
 </p>
 ---
