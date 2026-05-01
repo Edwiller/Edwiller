@@ -74,4 +74,4 @@
 > system ready 🚀
 ```
 
-![snake gif](https://github.com/Edwiller/Edwiller/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Edwiller/Edwiller/raw/output/github-contribution-grid-snake.svg)
