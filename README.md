@@ -1,4 +1,4 @@
-# 👾 Edwiller.exe
+# 👾 Edwiller
 
 ```diff
 + Status: ONLINE
