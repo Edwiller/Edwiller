@@ -56,7 +56,7 @@
 ## 🌐 NETWORK
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/edwiller-de-lima-araujo-961b44351/" target="_blank">
+  <a href="[https://www.linkedin.com/in/edwiller-de-lima-araujo-961b44351/](https://www.linkedin.com/in/edwiller-de-lima-araujo-961b44351/)" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
 </p>
